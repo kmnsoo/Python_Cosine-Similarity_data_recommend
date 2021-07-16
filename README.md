@@ -9,4 +9,13 @@
 
 ## 결과 화면
 > ## The Dark Knight Rise 영화 선택
-![image](https://user-images.githubusercontent.com/78295968/125909348-80d36950-28db-4fec-b5d7-1ca7952ccd7e.png)
+> ![image](https://user-images.githubusercontent.com/78295968/125910098-368b484a-3c84-4396-8f7e-a71173b88457.png)
+
+
+
+> ## Toy Story 영화 선택
+> ![image](https://user-images.githubusercontent.com/78295968/125909843-669acc88-8405-4cd8-aa70-dde0ff203377.png)
+
+
+
+> ## 각 영화의 해당 시리즈 영화들이 추천된 것을 알 수 있고, 이를 통해 측정된 유사도를 통해 영화 추천이 잘 이루어진 것을 확인할 수 있다.
