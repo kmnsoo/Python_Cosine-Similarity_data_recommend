@@ -58,4 +58,4 @@ def get_recommendations(title, cosine_sim=cosine_sim):
 
 get_recommendations('The Dark Knight Rises')
 print("선택한 영화 ->The Dark Knight Rises\n")
-print("선택한 영화와 유사한 10개의 영화 목록\n", get_recommendations('The Dark Knight Rises'))
+print("선택한 영화와 유사한 10개의 영화 목록\n\n", get_recommendations('The Dark Knight Rises'))
